@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MyApp3</string>
     <string name="myName">用户登录</string>
+    <string-array name="city_name">
+        <item>长沙</item>
+        <item>北京</item>
+        <item>上海</item>
+    </string-array>
 </resources>
